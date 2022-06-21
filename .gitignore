@@ -1,0 +1,26 @@
+# Ignore all
+/Assets/*
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Pp]ackages/
+/[Pp]rojectSettings/
+/[Uu]serSettings/
+/.vscode
+/.vs
+/.vsconfig
+/Logs
+/Untitled.app/Contents
+/build-log
+/*.csproj
+/*.sln
+/*.unitypackage
+
+
+# Contain files
+!/Assets/04.Game
+!/.gitignore
+!/.git
+!/README.md
